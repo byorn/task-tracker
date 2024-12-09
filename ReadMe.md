@@ -4,6 +4,7 @@ Task Tracker CLI
 Building this Golang CLI is fairly straight-forward and simple. 
 It was created with the intention to build muscle memory in golang syntax, and VIM motions. 
 [![Watch the video](video.png)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+https://youtu.be/-euYJJRd2jM
 Although I must admit I did get some insights from AI, I did not copy code from AI !!!
 The purpose of this exercise was purely to build muscle memory in syntax and vim motions.
 
